@@ -16,6 +16,6 @@ There are two deck strategies available:
 
 h1. Running
 
-# ./monopoly <strategy> <rolls> > monopoly.<strategy>.dat
-# ./monopoly.<strategy>.plot
-# see monopoly.<strategy>.svg
+# @./monopoly <strategy> <rolls> > monopoly.<strategy>.dat@
+# @./monopoly.<strategy>.plot@
+# @see monopoly.<strategy>.svg@
