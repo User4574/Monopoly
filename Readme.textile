@@ -19,3 +19,8 @@ h1. Running
 # @./monopoly <strategy> <rolls> > monopoly.<strategy>.dat@
 # @./monopoly.<strategy>.plot@
 # @see monopoly.<strategy>.svg@
+
+h2. Defaults
+
+* Bottom deck strategy
+* 10,000,000 rolls
