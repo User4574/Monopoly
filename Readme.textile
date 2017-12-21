@@ -1,0 +1,21 @@
+h1. Monopoly Landings
+
+This experimentally tests landing frequencies for squares on a monopoly board.
+
+h1. Requirements
+
+* Ruby
+* Gnuplot
+
+h1. Deck strateies
+
+There are two deck strategies available:
+
+* Put card back on bottom of deck (@bottom@)
+* Form a discard pile and shuffle it when the draw runs out (@discard@)
+
+h1. Running
+
+# ./monopoly <strategy> <rolls> > monopoly.<strategy>.dat
+# ./monopoly.<strategy>.plot
+# see monopoly.<strategy>.svg
